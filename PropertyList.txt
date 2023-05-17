@@ -1,0 +1,30 @@
+101|Apartment|600.0|2|1|550.0|1375|167220933|Active|Kenari Apartment, Cyberjaya, Selangor|Partially Furnished|null|jerry
+102|Apartment|1000.0|3|2|1300.0|3250|167220933|Active|Forest Green, Cyberjaya, Selangor|Fully Furnished|null|jerry
+103|Apartment|900.0|3|2|1450.0|3625|167220933|Active|Residensi Pandanmas, Cyberjaya, Selangor|Fully Furnished|null|jerry
+104|Apartment|890.0|3|2|2500.0|6250|167220933|Active|Sky Suites, Cyberjaya, Selangor|Fully Furnished|Wifi|jerry
+105|Apartment|2250.0|4|5|8000.0|20000|167220933|Active|The Binjai, Cyberjaya, Selangor|Fully Furnished|Wifi & Swimming Pool|jerry
+106|Apartment|872.0|3|2|1900.0|4750|167220933|Active|Sentul Point, Cyberjaya, Selangor|Fully Furnished|Wifi & Swimming Pool|jerry
+107|Apartment|805.0|3|2|1200.0|3000|167220933|Active|Enesta, Cyberjaya, Selangor|Partially Furnished|null|jerry
+108|Apartment|900.0|3|2|850.0|2125|167220933|Active|Taman Pandan, Cyberjaya, Selangor|Partially Furnished|null|jerry
+109|Apartment|1076.0|3|2|1500.0|3750|167220933|Active|The Herz, Cyberjaya, Selangor|Partially Furnished|null|jerry
+110|Apartment|1238.0|3|2|1750.0|4375|167220933|Active|City of Green, Cyberjaya, Selangor|Fully Furnished|null|jerry
+111|Condo|475.0|1|1|900.0|2250|169299965|Active|Kanvas SOHO, Cyberjaya, Selangor|Fully Furnished|Swimming Pool|lee
+112|Condo|1389.0|3|2|2400.0|6000|169988041|Active|Verdi Eco-dominiums, Cyberjaya, Selangor|Fully Furnished|Swimming Pool|lee
+113|Condo|450.0|1|1|800.0|2000|182299838|Active|Shaftsbury Square, Cyberjaya, Selangor|Partially Furnished|Swimming Pool|lee
+114|Condo|1390.0|3|2|1600.0|4000|122566608|Active|LakeFront Residence, Cyberjaya, Selangor|Partially Furnished|Swimming Pool|lee
+115|Condo|650.0|2|2|1300.0|3250|162202824|Active|Eclipse Residence, Cyberjaya, Selangor|Fully Furnished|Swimming Pool|lee
+116|Condo|450.0|1|1|900.0|2250|172822862|Active|Solstice @ Pan'gaea, Cyberjaya, Selangor|Fully Furnished|Swimming Pool|tom
+117|Condo|1390.0|3|2|2000.0|5000|145514779|Active|LakeFront Residence, Cyberjaya, Selangor|Fully Furnished|Swimming Pool|tom
+118|Condo|484.0|1|1|1050.0|2625|123345619|Active|Kanvas SOHO, Cyberjaya, Selangor|Fully Furnished|Swimming Pool|tom
+119|Condo|450.0|1|1|900.0|2250|162583401|Active|Solstice @ Pan'gaea, Cyberjaya, Selangor|Fully Furnished|null|tom
+120|Condo|500.0|1|1|950.0|2375|162540333|Active|Mutiara Ville, Cyberjaya, Selangor|Fully Furnished|null|tom
+121|Commercial|929.0|2|2|1300.0|3250|164350103|Active|Sky Park, Cyberjaya, Selangor|Fully Furnished|null|tom
+122|Commercial|676.0|2|2|1300.0|3250|127903056|Active|Suites @ d'Pulze, Cyberjaya, Selangor|Fully Furnished|null|tom
+123|Commercial|495.0|1|1|1100.0|2750|169299965|Active|Third Avenue, Cyberjaya, Selangor|Fully Furnished|null|tom
+124|Commercial|775.0|2|2|1200.0|3000|169299965|Active|Third Avenue, Cyberjaya, Selangor|Fully Furnished|null|tom
+125|Commercial|465.0|3|2|800.0|2000|162540333|Active|Garden Plaza, Cyberjaya, Selangor|Fully Furnished|null|tom
+126|Commercial|543.0|1|1|950.0|2375|162540333|Active|Sky Park, Cyberjaya, Selangor|Fully Furnished|null|lee
+127|Commercial|913.0|4|2|1000.0|2500|162540333|Active|The Arc, Cyberjaya, Selangor|Fully Furnished|null|lee
+128|Commercial|450.0|1|1|950.0|2375|162540333|Active|Kenwingston Square, Cyberjaya, Selangor|Fully Furnished|null|lee
+129|Commercial|10130.0|2|2|1000.0|2500|162540333|Active|Paragon @ Pan'gaea, Cyberjaya, Selangor|Fully Furnished|null|lee
+130|Commercial|639.0|1|1|1150.0|2875|162540333|Active|Shaftsbury, Cyberjaya, Selangor|Partially Furnished|null|lee
